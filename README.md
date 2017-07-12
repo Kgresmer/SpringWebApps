@@ -1,4 +1,6 @@
 # SpringWebApps
+
+These were all built when I was just learning Java and Spring and still in the bootcamp. 
 Full stack web applications built with Java, JS, AJAX, JSON, JQuery, HTML/CSS, REST, Hibernate and MySQL.
 
 VendingMachineV2 is the most in depth complete application. 
